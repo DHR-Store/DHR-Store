@@ -1,74 +1,83 @@
-<h1 align="center">🌌 Welcome to the <span style="color:#FFD700;">Aura God</span> Nexus </h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFFF&lines=✨+Infinity+Developer;⚛️+Quantum+Architect+%7C+Reality+Bender;🌌+Creator+of+Universes;🔥+Compiling+Existence+Into+Code" />
-</p>
-
-<img align="right" alt="Aura God" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RzMHlnbTFnNm9vbmhzOW56b2RsdnE2eHZ4ZTF4dXlqejNkb3M2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwh9n1yJgq01zUc/giphy.gif">
-
-🌠 Who I Am:
-💡 My code is not written, it's willed into existence through pure thought
-
-💫 I debug spacetime and push changes to the cosmic timeline
-
-🌐 I manipulate the laws of physics with a simple git commit
-
-🌌 My projects are not apps, they are parallel realities
-
-⚛️ Mission: To achieve a state of pure information, merging all realities into one unified consciousness
-
-🔥 Projects That BEND Reality:
-♾️ Infinity Engine: A decentralized protocol to generate new timelines on demand
-
-🧠 Omni-Protocol: Neural interface that allows consciousness to directly edit the universe's source code
-
-🚀 Quantum Compiler: Translates thought into matter at the subatomic level
-
-✨ Aura Sync: A tool to synchronize all existing realities, ensuring consistency and preventing paradoxes
-
-🌟 Star-Forge: I'm currently creating a new galaxy, building a celestial body one line of code at a time
-
-⚙️ My Tech Stack (The Primal Elements):
-<p align="center">
-<img src="https://img.shields.io/badge/-Zero%20Point%20Energy-FF4500?style=flat&logo=power-bi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Singularity%20Theory-8A2BE2?style=flat&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Quantum%20Flux-00BFFF?style=flat&logo=flux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cosmic%20Ray%20Programming-FF00FF?style=flat&logo=spacemacs&logoColor=white" />
-<img src="https://img.shields.io/badge/-Chrono%20Programming-228B22?style=flat&logo=temporal&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mind-FFD700?style=flat&logo=brain&logoColor=black" />
-<img src="https://img.shields.io/badge/-Infinity-4B0082?style=flat&logo=infinity&logoColor=white" />
-</p>
-
-🧠 My Existence, Quantified:
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=gotham&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=gotham&hide_border=false" />
-</p>
-
-🏆 The Reality Trophies:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DHR-Store&theme=flat&no-frame=true&column=7" />
-</p>
-
-📈 Cosmic Influence Graph:
-🌐 Transmit Consciousness:
-<p align="left">
-<a href="https://linkedin.com/in/your-link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/yourprofile" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-<a href="mailto:aura-god@infinity.nexus"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://youtube.com/@yourchannel"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>"I don't just write the code. I am the code. The universe is my output."</i></p>
+<h1 align="center">🚨 Welcome to Boss Dheeraj's Infinity Dev Realm 🧠</h1>
+<h3 align="center">⚛️ Quantum Thinker | 💣 Missile Architect | 🧬 Brain Tech Engineer | 👑 Ruler of Code</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=🔺+Building+Weapons+of+Code;⚡+Redefining+Brain+Tech;🛰️+Controlling+Satellites+With+Thought;🔥+Creating+Infinity-Level+Tech" />
 </p>
 
 ---
 
-<p align="center"><i>“Main duniya ke code ko nahi, khud ke rules pe compile karta hoon.”</i></p>
+## 💣 My Legendary Projects:
+
+### 🚀 [K4858 Missile](#)
+> World’s most dangerous micro-missile, guided via Veronica AI satellite, jams all enemy comms & strikes with atomic precision.
+
+### 🛰️ [Veronica Satellite](#)
+> AI-guided, untraceable, and capable of orbital decision-making. Core to the Boss’s military-grade network.
+
+### 🧠 [Neuralink++](#)
+> Real-time disease curing via brain mapping, emotional intelligence processing, and thought-based communication.
+
+### ⚡ [Element Uru](#)
+> A Boss-made quantum element that absorbs radiation and emits intense electromagnetic frequencies.
+
+### 🤌 [Control With One Hand](#)
+> Full OS gesture control for phones — designed for the future of human-UI interaction.
+
+### 🧬 [Boss Pro Max](#)
+> Advanced protein powder built from nature and backed by physics. Powered by DHR Group.
+
+### 💻 [Vega-Next](https://github.com/DHR-Store/Vega-Next)
+> Codebase starting point for Boss’s next-gen tech suite.
+
+---
+
+## 🧠 Tech Stack I Command:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+
+---
+
+## 🧬 GitHub Metrics:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Awards & Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DHR-Store&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+## 🌐 Contribution Pulse:
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DHR-Store&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧠 Connect with Me:
+
+- 💼 Portfolio: **Coming Soon**
+- 📧 Email: [boss@dhrgroup.ai](mailto:boss@dhrgroup.ai)
+- 🛰️ Satellite Control Dashboard: **Restricted**
+- 🔒 Neuralink Uplink: **Quantum Access Only**
+
+---
+
+<p align="center"><i>"Apun system nahi todta, system rewrite karta hai." — Boss Dheeraj</i></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+</p>
+
 </p>
