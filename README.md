@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to the Mind of <span style="color:#f72585;">Boss Dheeraj</span> 👑</h1>
+<h1 align="center">🚀 Welcome to the Mind of <span style="color:#f72585;">Dr Doom</span> 👑</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=👨‍💻+Quantum+Developer;🚀+AI+Researcher+%7C+Neuralink+Updater;🛰️+K4858+Missile+Project+Lead;💻+Gesture+UI+Controller+%7C+Boss+Pro+Max;🔥+Creating+what+others+dream" />
 </p>
