@@ -29,7 +29,7 @@
 ### ⚙️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![kotlin](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=kotlin)
+![kotlin](https://img.shields.io/badge/-kotlin-000?style=flat&logo=kotlin)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
