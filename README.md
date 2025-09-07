@@ -41,8 +41,10 @@
 
 ### 🏆 Achievements & Badges:
 <p align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DHR-Store&theme=monokai&no-frame=true&column=7)
+  <!-- GitHub Trophy working link -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=monokai&no-frame=true&column=7" />
   <br><br>
+  <!-- Extra custom badges -->
   ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=flat&logo=github)
   ![Open Source Contributor](https://img.shields.io/badge/OpenSource-Contributor-brightgreen?style=flat&logo=github)
   ![Top Language: Python](https://img.shields.io/badge/TopLanguage-Python-blue?style=flat&logo=python)
@@ -52,14 +54,14 @@
 
 ### 🧠 GitHub Stats That Flex My Mind:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph:
-[![BOSS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DHR-Store&theme=dracula)](https://github.com/DHR-Store)
+[![BOSS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=dracula)](https://github.com/YourGitHubUsername)
 
 ---
 
