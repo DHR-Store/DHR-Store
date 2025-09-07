@@ -29,13 +29,24 @@
 ### ⚙️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![kotlin](https://img.shields.io/badge/-kotlin-000?style=flat&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+
+---
+
+### 🏆 Achievements & Badges:
+<p align="center">
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DHR-Store&theme=monokai&no-frame=true&column=7)
+  <br><br>
+  ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=flat&logo=github)
+  ![Open Source Contributor](https://img.shields.io/badge/OpenSource-Contributor-brightgreen?style=flat&logo=github)
+  ![Top Language: Python](https://img.shields.io/badge/TopLanguage-Python-blue?style=flat&logo=python)
+</p>
 
 ---
 
@@ -47,20 +58,12 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DHR-Store&theme=monokai&no-frame=true&column=7" />
-</p>
-
----
-
 ### 📈 Contribution Graph:
-[![BOSS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DHR-Store&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BOSS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DHR-Store&theme=dracula)](https://github.com/DHR-Store)
 
 ---
 
 ### 🌐 Connect With Me:
-
 <p align="left">
   <a href="https://linkedin.com/in/your-link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/yourprofile" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
@@ -78,6 +81,4 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
-</p>
-
 </p>
