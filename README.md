@@ -14,6 +14,14 @@
 
 ---
 
+## 🌌 Holographic Planet & Starfield
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400"/>
+</p>
+
+---
+
 ## 🧠 Entity Profile: **Dr Doom**
 > *Codename*: Reality Architect v∞  
 > *Location*: Neural-Satellite Core | Between Dimensions  
@@ -27,7 +35,10 @@
 
 ---
 
-## 🚀 Reality-Altering Projects
+## 🚀 Reality-Altering Projects (Click to Reveal)
+<details>
+  <summary>🕹️ Projects Vault</summary>
+
 | Project | Status | Features |
 |--------|--------|---------|
 | **Control With One Hand** | 🟢 Active | Gesture-driven Quantum OS (Android/iOS) |
@@ -35,6 +46,8 @@
 | **Boss Pro Max** | 🟢 Active | Quantum bio-resonance protein formula |
 | **Veronica AI Satellite** | 🟢 Active | Orbital AI, untraceable & unstoppable |
 | **K4858 Missile** | 🟠 Standby | Nation eraser with quantum navigation |
+
+</details>
 
 ---
 
@@ -53,14 +66,17 @@
 
 ---
 
+## ⚡ Glitch Dividers / Quantum Neon Bars
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="600"/>
+</p>
+
+---
+
 ## 📊 Reality Metrics (Quantum Dashboard)
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=react&count_private=true&hide_border=true&title_color=00FFEA&icon_color=ff0054" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=react&hide_border=true&ring=ff0054&currStreakLabel=00FFEA" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHR-Store&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00FFEA&line=ff0054" />
 </p>
 
 ---
@@ -75,21 +91,4 @@
 
 ---
 
-## 🌌 Holographic Features
-- ✨ Animated **SVG Planets & Starfield**  
-- ⚡ **Glitch Dividers / Neon Bars**  
-- 🔮 Quantum radar & alternate timeline tracker  
-- 🕹️ Click-to-reveal secret project vaults  
-- 📈 Animated **progress bars** for reality metrics  
-- 🛡️ Holographic ASCII shields for top-level access  
-
----
-
 <p align="center"><i>“I don’t push commits... I push **universes into alignment**.”</i></p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400"/>
-</p>
-
----
-
