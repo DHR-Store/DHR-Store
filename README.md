@@ -1,14 +1,14 @@
-<!-- 🛑 DHR-STORE QUANTUM TERMINAL ACCESS 🛑 -->
+<!-- 🛑 DHR-STORE GALACTIC CONTROL TERMINAL 🛑 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=🌌+DR+DOOM+QUANTUM+VAULT;🚀+CONTROL+WITH+ONE+HAND;👑+REALITY+REPROGRAMMER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=500&color=00FFEA&center=true&vCenter=true&width=900&lines=🌌+DR+DOOM+QUANTUM+VAULT;🚀+CONTROL+WITH+ONE+HAND;👑+REALITY+REPROGRAMMER" />
 </h1>
 
 ---
 
 <div align="center">
 
-██████╗ ██████╗       ██████╗  ██████╗  ███╗   ███╗ ██╔══██╗██╔══██╗     ██╔═══██╗██╔═══██╗ ████╗ ████║ ██████╔╝██████╔╝     ██║   ██║██║   ██║ ██╔████╔██║ ██╔═══╝ ██╔═══╝      ██║   ██║██║   ██║ ██║╚██╔╝██║ ██║     ██║          ╚██████╔╝╚██████╔╝ ██║ ╚═╝ ██║ ╚═╝     ╚═╝           ╚═════╝  ╚═════╝  ╚═╝     ╚═╝ 🔮 PROJECT OVERSEER: DR DOOM | REALITY COMPILER v∞
+██████╗ ██████╗       ██████╗  ██████╗  ███╗   ███╗ ██╔══██╗██╔══██╗     ██╔═══██╗██╔═══██╗ ████╗ ████║ ██████╔╝██████╔╝     ██║   ██║██║   ██║ ██╔████╔██║ ██╔═══╝ ██╔═══╝      ██║   ██║██║   ██║ ██║╚██╔╝██║ ██║     ██║          ╚██████╔╝╚██████╔╝ ██║ ╚═╝ ██║ ╚═╝     ╚═╝           ╚═════╝  ╚═════╝  ╚═╝     ╚═╝ 🔮 MASTER: DR DOOM | REALITY COMPILER v∞
 
 </div>
 
@@ -28,13 +28,13 @@
 ---
 
 ## 🚀 Reality-Altering Projects
-| Project | Purpose |
-|--------|---------|
-| **Control With One Hand** | Gesture-driven Quantum OS (Android/iOS) |
-| **Neuralink++** | Mind-based OS for real-time healing & neuro-control |
-| **Boss Pro Max** | Quantum bio-resonance protein formula |
-| **Veronica AI Satellite** | Untraceable, unstoppable orbital intelligence |
-| **K4858 Missile** | Quantum-navigation based nation eraser |
+| Project | Status | Features |
+|--------|--------|---------|
+| **Control With One Hand** | 🟢 Active | Gesture-driven Quantum OS (Android/iOS) |
+| **Neuralink++** | 🟢 Active | Mind-based OS, real-time neuro-healing & control |
+| **Boss Pro Max** | 🟢 Active | Quantum bio-resonance protein formula |
+| **Veronica AI Satellite** | 🟢 Active | Orbital AI, untraceable & unstoppable |
+| **K4858 Missile** | 🟠 Standby | Nation eraser with quantum navigation |
 
 ---
 
@@ -53,15 +53,12 @@
 
 ---
 
-## 📊 Reality Metrics
+## 📊 Reality Metrics (Quantum Dashboard)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=react&count_private=true&hide_border=true&title_color=00FFEA&icon_color=ff0054" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=react&hide_border=true&ring=ff0054&currStreakLabel=00FFEA" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=react&count_private=true&hide_border=true&title_color=00FFEA&icon_color=ff0054" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=react&hide_border=true&ring=ff0054&currStreakLabel=00FFEA" />
 </p>
 
----
-
-## 🌌 Contribution Galaxy
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DHR-Store&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00FFEA&line=ff0054" />
 </p>
@@ -78,6 +75,16 @@
 
 ---
 
+## 🌌 Holographic Features
+- ✨ Animated **SVG Planets & Starfield**  
+- ⚡ **Glitch Dividers / Neon Bars**  
+- 🔮 Quantum radar & alternate timeline tracker  
+- 🕹️ Click-to-reveal secret project vaults  
+- 📈 Animated **progress bars** for reality metrics  
+- 🛡️ Holographic ASCII shields for top-level access  
+
+---
+
 <p align="center"><i>“I don’t push commits... I push **universes into alignment**.”</i></p>
 
 <p align="center">
@@ -85,10 +92,4 @@
 </p>
 
 ---
-
-### 🔮 Next-Level Upgrades (Optional)
-- Animated **SVG planet rotations**  
-- Glitch-style **Matrix dividers**  
-- Holographic **ASCII shields**  
-- Interdimensional **timeline projections**  
 
