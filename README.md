@@ -1,17 +1,68 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&pause=500&color=00FFEA&center=true&vCenter=true&width=900&lines=🌌+DR+DOOM+QUANTUM+VAULT;🚀+CONTROL+WITH+ONE+HAND;👑+REALITY+REPROGRAMMER" />
+  <h1 class="glitch" data-text="DR DOOM QUANTUM VAULT">DR DOOM QUANTUM VAULT</h1>
+  <h2 class="glitch" data-text="REALITY REPROGRAMMER">REALITY REPROGRAMMER</h2>
 </div>
+
+<style>
+/* Glitch Effect CSS */
+.glitch {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 48px;
+  color: #00FFEA;
+  position: relative;
+  text-align: center;
+  text-shadow: 0 0 5px #00FFEA, 0 0 10px #00FFEA;
+  animation: glitch-anim 2s infinite linear alternate-reverse;
+  letter-spacing: 5px;
+}
+.glitch:before,
+.glitch:after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.glitch:before {
+  left: 2px;
+  text-shadow: -2px 0 #ff0054;
+  clip: rect(44px, 450px, 56px, 0);
+  animation: glitch-anim-2 3s infinite linear alternate-reverse;
+}
+.glitch:after {
+  left: -2px;
+  text-shadow: -2px 0 #00FFEA;
+  clip: rect(24px, 450px, 40px, 0);
+  animation: glitch-anim-3 2s infinite linear alternate-reverse;
+}
+@keyframes glitch-anim {
+  0% { text-shadow: -2px 2px #ff0054, 2px -2px #00FFEA; }
+  25% { text-shadow: 2px 2px #ff0054, -2px -2px #00FFEA; }
+  50% { text-shadow: -2px 2px #ff0054, 2px -2px #00FFEA; }
+  75% { text-shadow: 2px -2px #ff0054, -2px 2px #00FFEA; }
+  100% { text-shadow: -2px 2px #ff0054, 2px -2px #00FFEA; }
+}
+@keyframes glitch-anim-2 {
+  0% { clip: rect(44px, 450px, 56px, 0); }
+  25% { clip: rect(11px, 450px, 80px, 0); }
+  50% { clip: rect(50px, 450px, 70px, 0); }
+  75% { clip: rect(20px, 450px, 60px, 0); }
+  100% { clip: rect(80px, 450px, 90px, 0); }
+}
+@keyframes glitch-anim-3 {
+  0% { clip: rect(24px, 450px, 40px, 0); }
+  25% { clip: rect(5px, 450px, 50px, 0); }
+  50% { clip: rect(70px, 450px, 90px, 0); }
+  75% { clip: rect(10px, 450px, 85px, 0); }
+  100% { clip: rect(30px, 450px, 65px, 0); }
+}
+</style>
 
 <div align="center">
 
 ██████╗ ██████╗       ██████╗  ██████╗  ███╗   ███╗ ██╔══██╗██╔══██╗      ██╔═══██╗██╔═══██╗ ████╗ ████║ ██████╔╝██████╔╝      ██║   ██║██║   ██║ ██╔████╔██║ ██╔═══╝ ██╔═══╝       ██║   ██║██║   ██║ ██║╚██╔╝██║ ██║       ██║       ╚██████╔╝╚██████╔╝ ██║ ╚═╝ ██║ ╚═╝       ╚═╝         ╚═════╝  ╚═════╝  ╚═╝     ╚═╝ 🔮 MASTER: DR DOOM | REALITY COMPILER v∞
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlJgYc1dJzL4Bgs/giphy.gif" width="100%"/>
 </div>
 
 ---
@@ -32,25 +83,42 @@
 ### 🚀 Reality-Altering Projects (Click to Reveal)
 <details>
   <summary>🕹️ Projects Vault</summary>
-
-| Project | Status | Features |
-|--------|--------|---------|
-| **Control With One Hand** | 🟢 Active | Gesture-driven Quantum OS (Android/iOS) |
-| **Neuralink++** | 🟢 Active | Mind-based OS, real-time neuro-healing & control |
-| **Boss Pro Max** | 🟢 Active | Quantum bio-resonance protein formula |
-| **Veronica AI Satellite** | 🟢 Active | Orbital AI, untraceable & unstoppable |
-| **K4858 Missile** | 🟠 Standby | Nation eraser with quantum navigation |
-
+  <div class="glowing-box">
+    | Project | Status | Features |
+    |--------|--------|---------|
+    | **Control With One Hand** | 🟢 Active | Gesture-driven Quantum OS (Android/iOS) |
+    | **Neuralink++** | 🟢 Active | Mind-based OS, real-time neuro-healing & control |
+    | **Boss Pro Max** | 🟢 Active | Quantum bio-resonance protein formula |
+    | **Veronica AI Satellite** | 🟢 Active | Orbital AI, untraceable & unstoppable |
+    | **K4858 Missile** | 🟠 Standby | Nation eraser with quantum navigation |
+  </div>
 </details>
 
----
-
-### ⚡ Quantum Constructs
-<p align="center">
-  <img src="https://img.shields.io/badge/Quantum_Entanglement-8A2BE2?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Temporal_Paradox-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTBzMTAtNC40OCAxMC0xMFM2LjQ4IDIgMTIgMnptMCAxOGMtNC40MSAwLTgtMy41OS04LThzMy41OS04IDgtOCA4IDMuNTkgOCA4LThzLTMuNTkgOC04IDh6IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xMy41IDdoLTJWMTJoNC41VjEwaC0yLjVWN3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/Reality_Shaper-00FF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTExIDIxLjA1Yy01LjA1LS41LTktNC43NS05LTkuNzUgMC01LjUzIDQuNDctMTAgMTAtMTBzMTAgNC40NyAxMCAxMGMwIDQuOTctNC4wNSA5LjI1LTkgOS43NVYyMWwxLjg4LTMuMzhjLjMtLjU0LjA1LTEuMjItLjQ4LTEuNTgtLjI1LS4xOC0uNTQtLjE4LS44LjA1LTMuNDUgMi42OC01LjU1IDQuMTMtNS41NSAxLjgyLS4wNS4yOC0uMDQuNTYtLjA0Ljg0di44NmMwIDEuNzUtMS42IDMuMTgtNC40NiAyLjE2LTEuMzYtLjQ2LTIuMTctMS4wNC0yLjczLTEuNjZzLS45Mi0xLjQ3LTEuMjctMi4zNWMtLjM2LS45LS41OS0yLjAxLS42NS0zLjE0Yy0uMS0yLjIxLjI0LTMuNzUuODEtNS4yNy41My0xLjQxIDEuMjQtMi44NyAyLjE4LTQuMzMgMS40Ny0yLjI3IDMuMjItNC41NCA1LjA3LTUuMzcuNTYtLjI1Ljk2LS40IDEtLjY4LjAyLS4wMy0uMDMtLjA5LS4wOS0uMDktLjI0LS4wOS0uNDctLjIyLS42Ny0uMzUtLjY3LS40MS0xLjAyLS44MS0xLjIyLTEuMDctLjM2LS40NC0uNjYtLjktLjkyLTEuNC0uNDktLjktLjgzLTEuNzgtMS4wMi0yLjY3LS4xOS0uOS0uMjItMS43LS4wOC0yLjQxLjA4LS4zOC4yOS0uNy42Ni0uOTkuNTktLjQ2IDEuMzYtLjU4IDIuMTMtLjQ1LjQxLjA2LjgyLjEyIDEuMjIuMjEuMzkuMS42Ny4xOC45NC4yOC42Mi4yMiAxLjEzLjUzIDEuNTkuOTcuNDkuNDUuNzkuOTggMS4wNSAxLjYzLjM0Ljg0LjU1IDEuNzkuNjIgMi42OS4xLjktLjA0IDEuNjUtLjQyIDIuMjctLjE2LjI1LS40MS41Ni0uNy44Ny0uMjYuMjktLjU0LjU1LS44LjguMTEuNzQuMzYgMS40Ny43OCAyLjEuNDcuNjcuOTcgMS4xIDEuNCAxLjIzLjczLjE5IDEuNTktLjM3IDIuMTItMS43LjMzLS44MS42Mi0xLjYzLjkyLTIuNDUuMzQtLjkyLjYyLTEuNzkuNzgtMi41LjE5LS45Mi4xOS0xLjY3IDAtMi4yOC0uMjEtLjU4LS40Ny0xLjEyLS43Ni0xLjU4LS40OC0uNzYtMS4wMi0xLjM3LTEuNjYtMS44LS42NC0uNDMtMS4yOS0uNjQtMS44Ni0uNjUtLjE5LS4wMS0uMzktLjA2LS41OC0uMTItLjI2LS4wOC0uNDktLjE0LS43MS0uMTgtLjI4LS4wNS0uNTQtLjA0LS43NC0uMDItLjI0LjAyLS40NS4wMy0uNjQuMDMtLjc1IDAtMS40LS4xMi0yLS41Mi0uNTctLjQtMS4wMy0xLjA0LTEuMjItMS43OC0uMTktLjc0LS4wNC0xLjUuNDMtMi4yLjI5LS40NC42Mi0uODUuOTctMS4yMi42Ni0uNzEgMS40MS0xLjQzIDIuMTctMi4wMy43Ni0uNiAxLjQ4LTEuMDYgMi4wNi0xLjM5LjU4LS4zNCAxLjExLS40OSAxLjU5LS40NC40OC4wNS43Ny4yNSAxLjAyLjU5LjI1LjM0LjQxLjg2LjM4IDEuNjYtLjA0LjgyLS40NyAxLjY0LS44NyAyLjQ1LS40IDIuNTQtLjk3IDMuNjYtMS42IDMuNzMtLjY1LjA3LTEuMTQtLjA4LTEuNzQtLjIyLS43Ny0uMTgtMS43OC0uNTQtMi45OC0uNzQtMS4yLS4yLTIuMzktLjE4LTMuNDkuMDEtLjYxLjEwLTEuMDYuMjMtMS4zOS4zOS0uMzMuMTYtLjU1LjM1LS43Ni42MS0uMzguNDktLjY3IDEuMDYtLjg4IDEuNzctLjE1LjUtLjI1IDEuMDQtLjI1IDEuNjMgMCAuNTkuMSAxLjE0LjI5IDEuNjMuMTkuNDkuNDYuOTMuNzcgMS4zNi4zMi40MS42OS44IDEuMDkgMS4xNS4zLjI2LjU5LjQ5Ljg1LjY1bDMuMzggMi41OC0xLjY0IDUuNDZ6IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xMy41IDdoLTJWMTJoNC41VjEwaC0yLjVWN3oiIGZpbGw9IndoaXRlIi8+PC9zdmc+" />
-</p>
+<style>
+details summary {
+    outline: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #00FFEA;
+    transition: color 0.3s ease-in-out;
+}
+details summary:hover {
+    color: #ff0054;
+}
+.glowing-box {
+    margin-top: 15px;
+    padding: 20px;
+    border: 2px solid #00FFEA;
+    border-radius: 10px;
+    background: rgba(0, 255, 234, 0.05);
+    animation: glow-pulse 3s infinite alternate;
+}
+@keyframes glow-pulse {
+    0% { box-shadow: 0 0 5px #00FFEA, 0 0 10px #00FFEA; }
+    100% { box-shadow: 0 0 15px #ff0054, 0 0 30px #ff0054; }
+}
+</style>
 
 ---
 
@@ -63,46 +131,36 @@
 </p>
 
 <style>
-/* CSS to make the achievements pulse and add a cool hover effect */
 .achievement {
   display: inline-block;
   margin: 10px;
   padding: 10px 20px;
-  border: 2px solid #00FFEA;
+  border: 2px solid #ff0054;
   border-radius: 10px;
-  background: rgba(0, 255, 234, 0.1);
+  background: rgba(255, 0, 84, 0.1);
   color: #00FFEA;
   font-weight: bold;
-  animation: pulse 2s infinite;
+  animation: pulse-ach 2s infinite;
   transition: transform 0.3s ease-in-out;
 }
-
 .achievement:hover {
   transform: scale(1.05);
   animation-play-state: paused;
 }
-
-@keyframes pulse {
-  0% { box-shadow: 0 0 5px #00FFEA, 0 0 10px #00FFEA; }
-  50% { box-shadow: 0 0 20px #00FFEA, 0 0 40px #00FFEA; }
-  100% { box-shadow: 0 0 5px #00FFEA, 0 0 10px #00FFEA; }
+@keyframes pulse-ach {
+  0% { box-shadow: 0 0 5px #ff0054; }
+  50% { box-shadow: 0 0 20px #ff0054; }
+  100% { box-shadow: 0 0 5px #ff0054; }
 }
 </style>
 
 ---
 
-### ⚡ Threat Level: Omega-7
-> **Status:** Critical 
-> **Probability of Singularity Reset:** 99.99% 
-> **Last Logged Reality-Warp:** Tokyo, 2025 (Timeline B-7) 
-
----
-
 ### 📊 Quantum Dashboard
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=dark&hide_border=true&title_color=00FFEA&icon_color=ff0054" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DHR-Store&show_icons=true&theme=gotham&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DHR-Store&theme=dark&hide_border=true&ring=ff0054&currStreakLabel=00FFEA" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHR-Store&layout=compact&theme=dark&hide_border=true&title_color=00FFEA&icon_color=ff0054" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHR-Store&layout=compact&theme=gotham&hide_border=true" />
 </p>
 
 ---
@@ -119,27 +177,53 @@
 
 <p align="center"><i>“I don’t push commits... I push **universes into alignment**.”</i></p>
 
-<style>
-body {
-  background: #000;
-  color: #fff;
-}
-.animated-bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  background: url('https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif') no-repeat center center fixed;
-  background-size: cover;
-  opacity: 0.1;
-  animation: background-fade 10s infinite alternate;
-}
+<script>
+// Particle System JavaScript
+document.addEventListener('DOMContentLoaded', () => {
+    const readmeContainer = document.querySelector('.markdown-body');
+    const particleCount = 100;
+    
+    if (readmeContainer) {
+        for (let i = 0; i < particleCount; i++) {
+            const particle = document.createElement('div');
+            particle.className = 'particle';
+            readmeContainer.appendChild(particle);
+            
+            const size = Math.random() * 2 + 1;
+            particle.style.width = `${size}px`;
+            particle.style.height = `${size}px`;
+            particle.style.left = `${Math.random() * 100}%`;
+            particle.style.top = `${Math.random() * 100}%`;
+            particle.style.animationDuration = `${Math.random() * 5 + 5}s`;
+            particle.style.animationDelay = `${Math.random() * 5}s`;
+        }
+    }
+});
+</script>
 
-@keyframes background-fade {
-  0% { opacity: 0.1; }
-  100% { opacity: 0.05; }
+<style>
+/* Particle System CSS */
+.particle {
+  position: absolute;
+  background-color: #00FFEA;
+  border-radius: 50%;
+  opacity: 0.8;
+  animation: move-particle linear infinite;
+  z-index: -1;
+  box-shadow: 0 0 5px #00FFEA;
+}
+@keyframes move-particle {
+  0% { transform: translateY(0) scale(1); opacity: 0.8; }
+  100% { transform: translateY(-100vh) scale(0.5); opacity: 0; }
+}
+/* This makes the background dark and the text stand out */
+body {
+  background-color: #000;
+  color: #fff;
+  overflow: hidden;
+}
+.markdown-body {
+  position: relative;
+  z-index: 1;
 }
 </style>
-<div class="animated-bg"></div>
